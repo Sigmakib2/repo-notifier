@@ -2,7 +2,7 @@
 
 Repo-Notifier is a serverless solution that bridges the gap between GitHub and Discord, providing a customizable and visually appealing way to receive notifications about GitHub events directly in your Discord channels. This project is designed to enhance the integration between GitHub and Discord, offering a more engaging and informative experience for developers and teams.
 
-
+![discord announcement in a channel on change of github repository](https://raw.githubusercontent.com/Sigmakib2/repo-notifier/main/repo-notifier.png "github webhook information on discord using cloudflare workers and hono")
 
 ## Getting Started
 
